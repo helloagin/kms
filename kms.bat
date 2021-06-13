@@ -1,4 +1,4 @@
 cd /d "%SystemRoot%\system32"
-slmgr /skms 300def22.nat123.fun:35874
+slmgr /skms 520def3c.nat123.fun:35877
 slmgr /ato
 slmgr /xpr
